@@ -1,6 +1,6 @@
 ### Hi there 👋 I AM Anshul Jaiswal
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-<img align ="center" src = "https://i.imgur.com/t13tEMI.jpeg" width="150" height="150">
+<img align ="center" src = "https://i.imgur.com/t13tEMI.jpeg" width="400" height="400">
 
 <p align="center">
 <a href="https://github.com/anshul-jaiswal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/anshul-jaiswal?label=Follow&style=social"></a>
