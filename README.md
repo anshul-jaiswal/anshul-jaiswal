@@ -1,11 +1,19 @@
 ### Hi there 👋 I AM Anshul Jaiswal
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+
 <p align="center">
 <a href="https://github.com/anshul-jaiswal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/anshul-jaiswal?label=Follow&style=social"></a>
 <a href="https://twitter.com/anshul_official"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/anshul_official?label=Follow&style=social"></a>
 <a href="https://www.linkedin.com/in/anshulajofficial/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
+
+Cheers!
+<p align="center"><img src=https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg alt=vuejs width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg alt=react width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg alt=css3 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="40" height="40"/> <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg alt=Bootstrap width="40" height="40"/> <img src=https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="50" height="50"/>
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg alt=mysql width="50" height="50"/> 
+ <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
+
+
+[![Anshul Jaiswal's github stats](https://github-readme-stats.vercel.app/api?username=anshul-jaiswal)](https://github.com/anshul-jaiswal/github-readme-stats)
 
 <!--
 
@@ -51,5 +59,5 @@ Cheers!
  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg alt=vs-code width="50" height="50"/></p>
 
 
-[![Akanksha Raghav's github stats](https://github-readme-stats.vercel.app/api?username=akanksha-raghav)](https://github.com/akanksha-raghav/github-readme-stats)
+[![Anshul Jaiswal's github stats](https://github-readme-stats.vercel.app/api?username=anshul-jaiswal)](https://github.com/anshul-jaiswal/github-readme-stats)
 -->
