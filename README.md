@@ -1,5 +1,6 @@
 ### Hi there 👋 I AM Anshul Jaiswal
 <img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
 <p align="center">
 <a href="https://github.com/anshul-jaiswal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/anshul-jaiswal?label=Follow&style=social"></a>
 <a href="https://twitter.com/anshul_official"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/anshul_official?label=Follow&style=social"></a>
@@ -23,7 +24,7 @@ Here are some ideas to get you started:
 
 -->
 <!--
-<img align ="right" src = "https://i.imgur.com/w4pKOQi.jpg" width="150" height="150">
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=akanksha-raghav alt=akanksha-raghav/></p>
 Hi!👋 I am Akanksha Raghav.<br>A technology enthusiast who loves to explore new technologies and leverage it to solve real-life problems.<br /><br>
 Its well said that:
