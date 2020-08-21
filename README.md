@@ -1,6 +1,13 @@
-### Hi there 👋
 
+
+<p align="center">
+	<a href="https://github.com/anshul-jaiswal"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://twitter.com/anshul_official"><img src="https://img.shields.io/twitter/follow/TerryTangYuan?label=Twitter&style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/anshulajofficial/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+</p>
+### Hi there 👋 I AM Anshul Jaiswal
 <!--
+-->
 **anshul-jaiswal/anshul-jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
 -->
