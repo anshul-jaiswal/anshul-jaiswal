@@ -1,11 +1,11 @@
-
+### Hi there 👋 I AM Anshul Jaiswal
 
 <p align="center">
 <a href="https://github.com/anshul-jaiswal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/anshul-jaiswal?label=Follow&style=social"></a>
 <a href="https://twitter.com/anshul_official"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/anshul_official?label=Follow&style=social"></a>
 <a href="https://www.linkedin.com/in/anshulajofficial/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-### Hi there 👋 I AM Anshul Jaiswal
+
 <!--
 
 **anshul-jaiswal/anshul-jaiswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
