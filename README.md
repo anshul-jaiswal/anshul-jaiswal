@@ -8,8 +8,8 @@
 </p>
 
 [![Anshul Jaiswal's github stats](https://github-readme-stats.vercel.app/api?username=anshul-jaiswal)](https://github.com/anshul-jaiswal/github-readme-stats)
-
-<img src="https://i.imgur.com/t13tEMI.jpeg" alt="GitHub" class="center">
+<!--
+<img src="https://i.imgur.com/t13tEMI.jpeg" alt="GitHub" class="center"> -->
 
 <!--
 
